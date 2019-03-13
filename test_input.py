@@ -1,0 +1,1 @@
+numero_de_usuario = inpuut("pon tu numero:")
