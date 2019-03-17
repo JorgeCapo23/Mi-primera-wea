@@ -1,1 +1,2 @@
-numero_de_usuario = inpuut("pon tu numero:")
+numero_de_usuario = input("pon tu numero:")
+print("muy bien esclavo")
